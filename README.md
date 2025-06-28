@@ -35,7 +35,7 @@ I am a Database Manager and an Air Traffic Controller. I’m currently pursuing 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Flayfe#6758/)
 -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviafesantos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romulo-giordani-57661584/)
 
 
 ## Mainly tools and technologies:
